@@ -8,7 +8,7 @@
   <artifactId>niuniu</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  
+
   <packaging>war</packaging>
 
   <name>niuniu Maven Webapp</name>
