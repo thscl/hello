@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="niuniu:war">
+    <output-path>$PROJECT_DIR$/niuniu/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>niuniu</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="niuniu.war">
+      <element id="artifact" artifact-name="niuniu:war exploded" />
+    </root>
+  </artifact>
+</component>
